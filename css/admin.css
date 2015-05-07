@@ -1,0 +1,18 @@
+/* This is the css for the admin */
+.doolli-form input.error {
+  box-shadow: 0px 0px 2px rgba(255, 0, 0, 0.8);
+}
+.doolli-form .url_message {
+  padding: 0 20px;
+  display: none;
+}
+.doolli-form .url_message.error {
+  color: red;
+  display: inline-block;
+}
+.doolli-form .url_message.ok {
+  color: green;
+  display: inline-block;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFkbWluLmxlc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUVBLFlBQWEsTUFBSztFQUFTLDRDQUFBOztBQUUzQixZQUFhO0VBQWUsZUFBQTtFQUFnQixhQUFBOztBQUM1QyxZQUFhLGFBQVk7RUFBUyxVQUFBO0VBQVcscUJBQUE7O0FBQzdDLFlBQWEsYUFBWTtFQUFPLFlBQUE7RUFBYSxxQkFBQSIsImZpbGUiOiJhZG1pbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKiBUaGlzIGlzIHRoZSBjc3MgZm9yIHRoZSBhZG1pbiAqL1xyXG5cclxuLmRvb2xsaS1mb3JtIGlucHV0LmVycm9yIHsgYm94LXNoYWRvdzowcHggMHB4IDJweCByZ2JhKDI1NSwgMCwgMCwgMC44KTsgfVxyXG5cclxuLmRvb2xsaS1mb3JtIC51cmxfbWVzc2FnZSB7IHBhZGRpbmc6MCAyMHB4OyBkaXNwbGF5Om5vbmU7IH1cclxuLmRvb2xsaS1mb3JtIC51cmxfbWVzc2FnZS5lcnJvciB7IGNvbG9yOnJlZDsgZGlzcGxheTppbmxpbmUtYmxvY2s7IH1cclxuLmRvb2xsaS1mb3JtIC51cmxfbWVzc2FnZS5vayAgeyBjb2xvcjpncmVlbjsgZGlzcGxheTppbmxpbmUtYmxvY2s7IH0iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */
